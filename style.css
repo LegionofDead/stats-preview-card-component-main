@@ -2,12 +2,14 @@
 
 * {
     box-sizing: border-box;
+    margin: auto;
 }
 
 body {
     font-family: 'Inter', sans-serif;
     font-size: 15px;
     background-color: hsl(233, 47%, 7%);
+    box-sizing: border-box;
 }
 
 main {
